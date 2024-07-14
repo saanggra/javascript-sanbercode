@@ -1,0 +1,14 @@
+{
+  "name": "javascript-sanbercode",
+  "version": "1.0.0",
+  "description": "aplikasi belajar javascript sanbercode part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node intro.js"
+  },
+  "author": "elsa",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
